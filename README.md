@@ -206,6 +206,7 @@ https://speakerdeck.com/csswizardry/what-is-a-css-framework-anyway
 - [DevTools Autosave](https://chrome.google.com/webstore/detail/devtools-autosave/mlejngncgiocofkcbnnpaieapabmanfl)
 - [Emmet LiveStyle](http://livestyle.emmet.io/)
 - [BugBuster](https://chrome.google.com/webstore/detail/bugbuster-recorder-css-se/cajiblmjgnmllbkmlgcnkhafngdjfoci)
+- [PrettyPrint](https://chrome.google.com/webstore/detail/prettyprint/nipdlgebaanapcphbcidpmmmkcecpkhg/details)
 
 
 ---
