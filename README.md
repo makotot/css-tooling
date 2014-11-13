@@ -58,6 +58,7 @@ https://gist.github.com/cdharrison/7023327
 - [analyze-css](https://github.com/macbre/analyze-css)
 - [StyleStats](http://www.stylestats.org/)
 - [Parker](https://github.com/katiefenn/parker)
+- [CSS Dig](https://github.com/tomgenoni/cssdig)
 
 
 ---
