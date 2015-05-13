@@ -82,6 +82,7 @@ https://gist.github.com/cdharrison/7023327
 - [critical](https://github.com/addyosmani/critical)
 - [CriticalCSS](https://github.com/filamentgroup/criticalcss)
 - [loadCSS](https://github.com/filamentgroup/loadCSS)
+- [symdiff](https://symdiff.github.io/)
 
 
 ---
